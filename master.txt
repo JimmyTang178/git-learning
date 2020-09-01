@@ -1,1 +1,1 @@
-This is the first git.
+This is the first git.\n I added some changes in this file.
